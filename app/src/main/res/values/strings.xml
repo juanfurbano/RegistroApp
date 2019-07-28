@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RegistroApp</string>
+    <string name="formulario">Formulario</string>
+    <string name="nombre">Nombre: </string>
+    <string name="correo">Correo electrónico</string>
+    <string name="cedula">Numero de documento</string>
+    <string name="guardar">Guardar</string>
+    <string name="masculino">Maculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="deporte">Deportes</string>
+    <string name="cine">Cine</string>
+    <string name="futbol">Futbol</string>
+    <string name="nadar">Nadar</string>
+    <string name="bailar">Bailar</string>
+    <string name="Fecha">Fecha de nacimiento</string>
+    <string name="lugardenacimiento">Lugar de nacimiento:</string>
+    <string name="hobbies">Hobbies:</string>
+    <string name="Sexo">Sexo:</string>
+    <string name="Password">Contraseña</string>
+    <string name="PasswordConfirm">Confirme contraseña</string>
+</resources>
